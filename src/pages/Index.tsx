@@ -4,6 +4,7 @@ import PresentationContentSection from "@/components/PresentationContentSection"
 import EventInfoSection from "@/components/EventInfoSection";
 import ProfessorsSection from "@/components/ProfessorsSection";
 import TeamSection from "@/components/TeamSection";
+import RSVPSection from "@/components/RSVPSection";
 import ClosingSection from "@/components/ClosingSection";
 
 const Index = () => {
@@ -15,6 +16,7 @@ const Index = () => {
       <EventInfoSection />
       <ProfessorsSection />
       <TeamSection />
+      <RSVPSection />
       <ClosingSection />
     </main>
   );

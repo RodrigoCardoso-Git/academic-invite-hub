@@ -4,7 +4,7 @@ const eventDetails = [
   {
     icon: Calendar,
     label: "Data",
-    value: "04 e 05 de fevereiro",
+    value: "05 de fevereiro",
   },
   {
     icon: Clock,

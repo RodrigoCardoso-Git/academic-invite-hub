@@ -1,12 +1,13 @@
 import { GraduationCap } from "lucide-react";
 
 const professors = [
-  "Prof. Dr. Roberto Almeida",
-  "Profa. Dra. Fernanda Martins",
-  "Prof. Me. Eduardo Souza",
-  "Profa. Dra. Beatriz Rodrigues",
-  "Prof. Dr. Marcelo Pereira",
-  "Profa. Me. Juliana Campos",
+  "Prof. Dr. Ricardo Moura Sekeff Budaruiche",
+  "Prof. Me. Jonathas Jivago de Almeida Cruz",
+  "Prof. Dr. Wanderson de Vasconcelos Rodrigues da Silva",
+  "Prof. Dr. Iallen Gabio de Sousa Santos",
+  "Prof. Me. Mayllon Veras da Silva",
+  "Prof. Me. Maykol Livio Sampaio Vieira Santos",
+  "Prof. Me. Jeferson do Nascimento Soares",
 ];
 
 const ProfessorsSection = () => {
