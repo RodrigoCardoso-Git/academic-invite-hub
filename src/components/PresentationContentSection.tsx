@@ -4,7 +4,7 @@ const contentItems = [
   {
     icon: FileText,
     title: "O produto desenvolvido",
-    description: "Apresentação do resultado final do projeto",
+    description: "Apresentação detalhada do produto desenvolvido",
   },
   {
     icon: Route,
@@ -13,8 +13,8 @@ const contentItems = [
   },
   {
     icon: Award,
-    title: "A defesa técnica dos resultados obtidos",
-    description: "Análise e discussão dos resultados alcançados",
+    title: "Relatório técnico desenvolvido",
+    description: "Análise e discussão do relatório técnico",
   },
 ];
 

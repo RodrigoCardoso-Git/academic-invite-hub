@@ -1,10 +1,10 @@
 const teamMembers = [
-  { initials: "AS", name: "Ana Silva" },
-  { initials: "CS", name: "Carlos Santos" },
-  { initials: "MO", name: "Maria Oliveira" },
-  { initials: "JC", name: "João Costa" },
-  { initials: "PF", name: "Paula Ferreira" },
-  { initials: "RL", name: "Rafael Lima" },
+  { initials: "FI", name: "Francisco Igor Silva Santos" },
+  { initials: "IH", name: "Íkaro Herbert Vasconcelos Gomes" },
+  { initials: "SF", name: "Savyo Francisco Barbosa Nascimento" },
+  { initials: "CA", name: "Carlos André Sampaio do Nascimento" },
+  { initials: "MS", name: "Mardone Silva Pereira" },
+  { initials: "RC", name: "Rodrigo Cardoso de Farias" },
 ];
 
 const TeamSection = () => {

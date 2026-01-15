@@ -6,11 +6,11 @@ const ClosingSection = () => {
         
         <div className="space-y-6 text-primary-foreground/90 text-lg leading-relaxed font-light">
           <p>
-            O momento representa a{" "}
+            O momento simboliza a{" "}
             <span className="text-accent font-medium">
-              consolidação das atividades
+              consolidação dos conhecimentos e das atividades
             </span>{" "}
-            realizadas ao longo das aulas em sala e em campo.
+            desenvolvidas ao longo das aulas, tanto em sala quanto em campo.
           </p>
           
           <p className="text-xl font-serif italic text-primary-foreground">
@@ -27,7 +27,7 @@ const ClosingSection = () => {
             Tecnologia, Reintegração e Acolhimento
           </p>
           <p className="text-primary-foreground/40 text-xs mt-2">
-            Projeto Acadêmico • 2025
+            Extensão Curricular I • 2026
           </p>
         </div>
       </div>

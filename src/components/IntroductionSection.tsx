@@ -10,22 +10,24 @@ const IntroductionSection = () => {
           <p>
             Temos a honra de convidá-los para compor a{" "}
             <span className="font-medium text-foreground">Banca Avaliadora</span>{" "}
-            da apresentação do Projeto{" "}
+            da apresentação do Projeto Extensionista{" "}
             <span className="gold-accent font-medium">
-              Tecnologia, Reintegração e Acolhimento
+              "Tecnologia, Reintegração e Acolhimento: uma parceria com a Fundação Terapêutica Monte Tabor"
             </span>
-            : uma parceria com a{" "}
+            , desenvolvido sob a supervisão da{" "}
             <span className="font-medium text-foreground">
-              Fundação Terapêutica Monte Tabor
-            </span>
-            , sob orientação da{" "}
-            <span className="font-medium text-foreground">Professora Joselma</span>.
+              Prof.ª Dra. Joselma Ferreira Lima e Silva
+            </span>{" "}
+            e a orientação do{" "}
+            <span className="font-medium text-foreground">
+              Prof. Me. Jeferson do Nascimento Soares
+            </span>.
           </p>
           
           <p>
             O projeto possui caráter{" "}
             <span className="font-medium text-foreground">educacional e extensionista</span>
-            , com foco na inclusão digital, reintegração social e fortalecimento institucional.
+            , com foco na inclusão digital, na reintegração social e no fortalecimento institucional.
           </p>
         </div>
         
